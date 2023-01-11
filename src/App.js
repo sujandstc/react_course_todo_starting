@@ -1,7 +1,7 @@
 import "./styles/app.css";
 
 const App = () => {
-  return <>This is dymmy file</>;
+  return <></>;
 };
 
 export default App;
